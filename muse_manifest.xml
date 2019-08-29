@@ -1,0 +1,281 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="barsa.dn.ua" resolutions="1x" timestamp="1567077557510">
+  <folder name="css">
+    <file name="site_global.css" crc="175056990"/>
+    <file name="index.css" crc="4211289654" ref="index"/>
+    <file name="iefonts_index.css" crc="224510530" ref="index"/>
+    <file name="nomq_index.css" crc="208012071" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u165.php" crc="3892136230" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="form-u2124.php" crc="3861401846" ref="index"/>
+    <file name="form-u5525.php" crc="224638479" ref="index"/>
+    <file name="form-u5855.php" crc="4088331318" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="вставленные-svg-93857x114.svg" crc="389365795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленные svg 93857x114_poster_.png" crc="4247841729" ref="index"/>
+    <file name="fmvkjoh8uyk.jpg" crc="165633560" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5a8b28289204c.jpg" crc="522904056" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="js7ocyfajvm-2-u154-fr.png" crc="340423466" ref="index"/>
+    <file name="img-540eb78aa7a11da2fbb0f54e9b0dd7c1-v.jpg" crc="194627943" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_2xtfkb12-y.jpg" crc="4216229509" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wzymc76e5mw.jpg" crc="476670389" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconfinder_soccer_ball_22984.png" crc="309202875" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a0zksdor4bk.jpg" crc="151984326" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eonauf36noc.jpg" crc="467602151" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ltyiuzlll-m.jpg" crc="4091998545" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-f93c863d733257ef3f6279225bdf7e2c-v.jpg" crc="133155172" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-60dae85caba07eef9a6fe0fd60552996-v.jpg" crc="3972593117" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-716f3ed2dbf7925468f441e9d8d10004-v.jpg" crc="530303214" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="js7ocyfajvm-2-u3725-fr.png" crc="416175127" ref="index"/>
+    <file name="iconfinder_games_-_soccer_82274.png" crc="4040592016" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cwysop5k3ri.jpg" crc="3835393892" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fn4uj1v42es.jpg" crc="3838983029" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wsqycy7y0cu.jpg" crc="4156590216" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hupez9otefm.jpg" crc="4160671699" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconfinder_soccer_1_53261.png" crc="3862603689" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconfinder_file-commander_43354.png" crc="4050640357" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconfinder_school_events_45188.png" crc="4083329563" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconfinder_9_2694135-u4295-fr.png" crc="3803954697" ref="index"/>
+    <file name="iconfinder_7_2694141-u4327-fr.png" crc="69826800" ref="index"/>
+    <file name="iconfinder_5_2694138-u4364-fr.png" crc="10206625" ref="index"/>
+    <file name="iconfinder_basket-full_43352.png" crc="469364515" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clipart1347914.png" crc="4098915869" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-d0e7f8698541eb5cd14281e4618e98a9-v (1).jpg" crc="3887697877" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20190609_095430.jpg" crc="4084565001" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iconfinder_symbol-help_49263.png" crc="28708146" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wqi9vsgwa9w.jpg" crc="4028786769" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="exjj6exznz0.jpg" crc="3954001362" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bubjt4z5j_4.jpg" crc="197365924" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wy1y8q0txtw.jpg" crc="431901892" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tlkafwicmmq.jpg" crc="473176009" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="js7ocyfajvm-2-u6215-fr.png" crc="4223536521" ref="index"/>
+    <file name="js7ocyfajvm-2-u154-fr2.png" crc="4020021624" ref="index"/>
+    <file name="img-540eb78aa7a11da2fbb0f54e9b0dd7c1-v-u1970-fr.jpg" crc="3927744804" ref="index"/>
+    <file name="iconfinder_9_2694135-u4295-fr2.png" crc="4081551886" ref="index"/>
+    <file name="iconfinder_7_2694141-u4327-fr2.png" crc="3771783131" ref="index"/>
+    <file name="iconfinder_5_2694138-u4364-fr2.png" crc="3949213387" ref="index"/>
+    <file name="js7ocyfajvm-2.png" crc="329230206" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-540eb78aa7a11da2fbb0f54e9b0dd7c1-v-u1970-fr2.jpg" crc="468458691" ref="index"/>
+    <file name="fmvkjoh8uyk-u762-fr.jpg" crc="31266546" ref="index"/>
+    <file name="_2xtfkb12-y-u2722-fr.jpg" crc="4234384925" ref="index"/>
+    <file name="wzymc76e5mw-u2734-fr.jpg" crc="80584584" ref="index"/>
+    <file name="iconfinder_soccer_ball_22984-u2857-fr.png" crc="4237731578" ref="index"/>
+    <file name="img-f93c863d733257ef3f6279225bdf7e2c-v-u3342-fr.jpg" crc="513289986" ref="index"/>
+    <file name="img-716f3ed2dbf7925468f441e9d8d10004-v-u3620-fr.jpg" crc="284582852" ref="index"/>
+    <file name="iconfinder_9_2694135-u4295-fr3.png" crc="133460801" ref="index"/>
+    <file name="iconfinder_7_2694141-u4327-fr3.png" crc="4161021478" ref="index"/>
+    <file name="iconfinder_5_2694138-u4364-fr3.png" crc="521343777" ref="index"/>
+    <file name="iconfinder_basket-full_43352-u4406-fr.png" crc="316552177" ref="index"/>
+    <file name="iconfinder_symbol-help_49263-u4679-fr.png" crc="3812005823" ref="index"/>
+    <file name="fmvkjoh8uyk-u762-fr2.jpg" crc="55797035" ref="index"/>
+    <file name="_2xtfkb12-y-u2722-fr2.jpg" crc="3873970537" ref="index"/>
+    <file name="wzymc76e5mw-u2734-fr2.jpg" crc="4271893154" ref="index"/>
+    <file name="img-540eb78aa7a11da2fbb0f54e9b0dd7c1-v-u1970-fr3.jpg" crc="219586659" ref="index"/>
+    <file name="iconfinder_soccer_ball_22984-u2857-fr2.png" crc="4089402721" ref="index"/>
+    <file name="img-f93c863d733257ef3f6279225bdf7e2c-v-u3342-fr2.jpg" crc="307066544" ref="index"/>
+    <file name="iconfinder_soccer_1_53261-u4085-fr.png" crc="3816250166" ref="index"/>
+    <file name="iconfinder_file-commander_43354-u4098-fr.png" crc="185513601" ref="index"/>
+    <file name="iconfinder_school_events_45188-u4147-fr.png" crc="355100763" ref="index"/>
+    <file name="iconfinder_9_2694135-u4295-fr4.png" crc="4123671253" ref="index"/>
+    <file name="iconfinder_7_2694141-u4327-fr4.png" crc="3930232700" ref="index"/>
+    <file name="iconfinder_5_2694138-u4364-fr4.png" crc="3953863512" ref="index"/>
+    <file name="iconfinder_basket-full_43352-u4406-fr2.png" crc="3859742570" ref="index"/>
+    <file name="iconfinder_games_-_soccer_82274-u6302-fr.png" crc="3904858295" ref="index"/>
+    <file name="iconfinder_symbol-help_49263-u4679-fr2.png" crc="4124046510" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="41145803" seo="true" mt="1566988240291" redirect="true"/>
+</manifest>
